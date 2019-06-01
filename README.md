@@ -1,8 +1,9 @@
 # Tool download SlideShare NodeJS
 
-Only to use in site: [www.slideshare.net](https://www.slideshare.net)
+Tool download slide in [www.slideshare.net](https://www.slideshare.net) to pdf file.
+>Notice: Only to use in site: [www.slideshare.net](https://www.slideshare.net). Can't config to use in another site
 
-##Usage
+## Usage
 
     node index.js <url>
 
